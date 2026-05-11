@@ -14,9 +14,16 @@
 ### *Building Real-World Data Science Expertise*
 
 <p align="center">
-  <img src="./certificates/The_Ultimate_Job_Ready_Data_Science_Course.png" width="90%" alt="Certificate Preview" style="border-radius: 12px; box-shadow: 0 10px 40px rgba(0,0,0,0.15);">
+  <img src="./Certificates/certificate.png" width="85%" alt="Certificate Preview">
 </p>
 
+---
+
+## 🔗 Certificate Access
+
+<p align="center">
+  📄 <a href="./Certificates/certificate.pdf">View Certificate (PDF)</a>
+</p>
 ---
 
 ## 📋 Certification Details
