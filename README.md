@@ -76,16 +76,7 @@ This comprehensive course provided hands-on experience in:
 - ✅ **Machine Learning** - From basics to real-world implementation
 - ✅ **Real-world Projects** - Building a portfolio of projects
 - ✅ **Model Deployment** - Best practices for production
-
----
-
-## 🔗 Certificate Access
-
-<p align="center">
-
-<a href="./Certificates/certificate.pdf">
-  <img src="./Certificates/certificate.png" width="80%">
-</a>
+- 
 ---
 
 ## 💡 About Me
