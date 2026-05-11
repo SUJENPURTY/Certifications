@@ -86,13 +86,6 @@ This comprehensive course provided hands-on experience in:
 <a href="./Certificates/certificate.pdf">
   <img src="./Certificates/certificate.png" width="80%">
 </a>
-
-</p>
-
-<p align="center">
-  📄 <a href="./Certificates/certificate.pdf">View Certificate (PDF)</a>
-</p>
-
 ---
 
 ## 💡 About Me
