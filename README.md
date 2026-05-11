@@ -76,9 +76,14 @@ This comprehensive course provided hands-on experience in:
 
 <p align="center">
 
-[View Certificate (PDF)](./Certificates/The_Ultimate_Job_Ready_Data_Science_Course_Certificate.pdf)
+<a href="./Certificates/certificate.pdf">
+  <img src="./Certificates/certificate.png" width="80%">
+</a>
 
+</p>
 
+<p align="center">
+  📄 <a href="./Certificates/certificate.pdf">View Certificate (PDF)</a>
 </p>
 
 ---
