@@ -76,7 +76,7 @@ This comprehensive course provided hands-on experience in:
 
 <p align="center">
 
-📄 **[View Certificate (PDF)](./certificates/The_Ultimate_Job_Ready_Data_Science_Course.pdf)**
+📄 **[View Certificate (PDF)](C:\Users\sujen\OneDrive\Desktop\CERTIFICATION\Certificates\The_Ultimate_Job_Ready_Data_Science_Course_Certificate.pdf)**
 
 </p>
 
